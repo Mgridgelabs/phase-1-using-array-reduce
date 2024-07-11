@@ -5,3 +5,4 @@ const totalBatteries = batteryBatches.reduce(function(accumulator, currentValue)
   });
   
   console.log(totalBatteries)
+  
